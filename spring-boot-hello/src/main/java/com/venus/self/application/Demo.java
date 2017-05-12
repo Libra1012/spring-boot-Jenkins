@@ -1,4 +1,4 @@
-package com.venus.Application;
+package com.venus.self.application;
 
 public class Demo {
 

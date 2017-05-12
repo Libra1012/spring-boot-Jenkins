@@ -1,4 +1,4 @@
-package com.venus.Application;
+package com.venus.self.application;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
